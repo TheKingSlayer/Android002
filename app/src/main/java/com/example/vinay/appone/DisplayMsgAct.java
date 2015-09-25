@@ -29,7 +29,7 @@ public class DisplayMsgAct extends ActionBarActivity {
         //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         // minSdkVersion is 11 or higher; use:
-        getActionBar().setDisplayHomeAsUpEnabled(true);
+       // getActionBar().setDisplayHomeAsUpEnabled(true);
 
     }
 
